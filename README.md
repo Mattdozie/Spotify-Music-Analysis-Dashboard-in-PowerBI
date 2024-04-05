@@ -13,6 +13,8 @@ Spotify for Developers, Chatgpt, HTML & CSS, HTML content, Denab Visuals, Bravo,
 ### Glassmorphism Background
 To create an aesthetically pleasing and modern design, the dashboard adopts the Glassmorphism trend. It incorporates transparency, background blur, and subtle shadows to create a glass effect, adding depth to the user interface. The background, designed using PowerPoint template, employs a transparent black-grey Glassmorphism style, offering a visually appealing backdrop for the data visualization.
 
+![NEW Background](https://github.com/Mattdozie/Spotify-Music-Analysis-Dashboard-in-PowerBI/assets/100968289/e040414d-b811-4ed4-ab3f-dc630e7e00ff)
+
 ### Visualizations and Analysis
 1. **Time Intelligence**: The dataset is loaded into PowerBI, and a calendar table is created using the tool Bravo to enable time-based analysis.
 2. **Bar Chart**: A bar chart visualizes the number of streams for each track, providing insights into the popularity of individual songs.
