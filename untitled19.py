@@ -16,8 +16,8 @@ import base64
 from dotenv import load_dotenv
 import os
 
-CLIENT_ID = 'bed063cc44a14bba84df27fa46f571c6'
-CLIENT_SECRET = 'dbe69f4d1c5c4ecb8da6759aecab6afb'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 
 def get_access_token(client_id, client_secret):
     """Authenticate with the Spotify API and return an access token."""
@@ -69,8 +69,8 @@ if __name__ == "__main__":
 import pandas as pd
 import requests
 
-CLIENT_ID = 'bed063cc44a14bba84df27fa46f571c6'
-CLIENT_SECRET = 'dbe69f4d1c5c4ecb8da6759aecab6afb'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 
 def get_access_token(client_id, client_secret):
     auth_url = 'https://accounts.spotify.com/api/token'
