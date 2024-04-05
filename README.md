@@ -6,6 +6,7 @@ The Spotify Music Analysis Dashboard in PowerBI aims to provide comprehensive in
 ## Dataset Overview
 The dataset utilized for this analysis is rich with information, providing detailed attributes of each song. Key features include track name, artist(s) name, release date, presence on Spotify playlists and charts, streaming statistics, as well as attributes like beats per minute (bpm), danceability percentage, valence percentage, and more.
 
+[Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download)
 ## Applications and Installations
 Spotify for Developers, Chatgpt, HTML & CSS, HTML content, Denab Visuals, Bravo, DAX, Python, Visual Studio and Google Colab
 
