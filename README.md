@@ -25,6 +25,11 @@ To create an aesthetically pleasing and modern design, the dashboard adopts the 
 7. **Deneb Visuals**: Deneb Visuals are employed to create a Uni chart and Heat Map for visualizing song energy and the number of tracks released on each day of the month.
 8. **Color Theme**: The Spotify color palette is utilized to modify the theme color for the report, ensuring visual consistency with the brand.
 
+### The Dashboard
+
+![Screenshot 2024-04-05 230309ww](https://github.com/Mattdozie/Spotify-Music-Analysis-Dashboard-in-PowerBI/assets/100968289/23d2229f-102c-479f-a82a-36042720119c)
+
+
 ## Insights and Analysis
 The Spotify Music Analysis Dashboard provides several actionable insights:
 1. **Streaming Trends**: Users can analyze the popularity of songs based on the number of streams, track releases over time, and their presence on various platforms.
